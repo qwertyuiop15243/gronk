@@ -1,0 +1,19 @@
+html {
+
+
+}
+h1{
+    border-style: solid;
+    border-inline: 50px;
+}
+p {
+    display: inline-block;
+    
+}
+.space {
+    margin: 15px;
+}
+figcaption{
+    display: inline;
+    margin: 50px;
+}
