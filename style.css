@@ -7,11 +7,14 @@ p {
     
 }
 .outline {
-    display: inline-block;
-
-    border-style: solid;
+    display: flex;
+position: absolute;
+    border-style:solid;
     border-width: medium;
-padding: 10px;
+margin-bottom: 500px;
+padding: 2%;
+
+margin-left: 550px;
 }
 .space {
     margin: 15px;
