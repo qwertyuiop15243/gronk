@@ -1,14 +1,17 @@
-html {
-
-
-}
 h1{
     border-style: solid;
     border-inline: 50px;
 }
 p {
-    display: inline-block;
+    display: block;
     
+}
+.outline {
+    display: inline-block;
+
+    border-style: solid;
+    border-width: medium;
+padding: 10px;
 }
 .space {
     margin: 15px;
